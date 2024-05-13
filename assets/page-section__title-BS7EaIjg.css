@@ -1,0 +1,1 @@
+.page-section__title{position:relative;margin:0;font-size:24px;line-height:36px;color:#333}.page-section__title:after{content:"";position:absolute;bottom:-8px;left:0;width:36px;height:4px;background-color:#4e0905}@media (min-width: 768px){.page-section__title{font-size:36px;line-height:48px}.page-section__title:after{bottom:-16px;width:72px}}

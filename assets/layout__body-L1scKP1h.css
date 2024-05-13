@@ -1,0 +1,1 @@
+.layout__body{flex:1;box-sizing:border-box;width:100%;max-height:calc(100% - 48px);background-color:#fffefc}@media (min-width: 768px){.layout__body{max-height:100%;padding-left:240px}}@media (min-width: 1280px){.layout__body{padding-left:360px}}

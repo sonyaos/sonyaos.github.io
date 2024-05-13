@@ -1,0 +1,1 @@
+.layout__header{display:flex;box-sizing:border-box;min-height:48px;background-color:#070602}@media (min-width: 768px){.layout__header{flex-direction:column;position:fixed;width:240px;height:100%;padding-top:25vh}}@media (min-width: 1280px){.layout__header{width:360px}}
